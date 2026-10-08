@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="212" viewBox="0 0 495 212" role="img" aria-labelledby="card-title">
-  <title id="card-title">GitHub at a glance: 188 stars, 31 public repos, 1,510 contributions in the last 12 months, 1,999 all-time, 72 followers. Top languages: Go 70.3%, TypeScript 9.3%, Shell 8.7%, JavaScript 4.4%, Python 4.2%, HTML 3.0%.</title>
+  <title id="card-title">GitHub at a glance: 188 stars, 31 public repos, 1,513 contributions in the last 12 months, 2,002 all-time, 72 followers. Top languages: Go 70.3%, TypeScript 9.3%, Shell 8.7%, JavaScript 4.4%, Python 4.2%, HTML 3.0%.</title>
   <style>
     .card { fill: #1a1b26; stroke: #2f3549; stroke-width: 1; }
     text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c0caf5; }
@@ -39,12 +39,12 @@
   <g class="row" style="animation-delay:0.55s">
     <g class="icon" transform="translate(20 114)"><path d="M1.5 8h3.7M10.8 8h3.7M8 5.2a2.8 2.8 0 1 0 0 5.6 2.8 2.8 0 0 0 0-5.6z"/></g>
     <text class="label" x="44" y="126">Contributions, last 12 months</text>
-    <text class="num" x="246" y="126" text-anchor="end">1,510</text>
+    <text class="num" x="246" y="126" text-anchor="end">1,513</text>
   </g>
   <g class="row" style="animation-delay:0.75s">
     <g class="icon" transform="translate(20 142)"><path d="M1.5 14.5h13M4.5 12V8M8 12V3.5M11.5 12V6"/></g>
     <text class="label" x="44" y="154">Contributions, all-time</text>
-    <text class="num" x="246" y="154" text-anchor="end">1,999</text>
+    <text class="num" x="246" y="154" text-anchor="end">2,002</text>
   </g>
   <g class="row" style="animation-delay:0.95s">
     <g class="icon" transform="translate(20 170)"><path d="M5.5 2.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM1.5 13.5a4 4 0 0 1 8 0M10.5 3a2.2 2.2 0 0 1 0 4.2M12.2 9.6a3.6 3.6 0 0 1 2.3 3.9"/></g>
@@ -57,11 +57,11 @@
   </g>
   <rect class="track" x="264" y="88" width="211" height="8" rx="4"/>
   <g clip-path="url(#bar-clip)">
-    <rect class="seg" x="264.00" y="88" width="148.84" height="8" fill="#00ADD8" style="animation-delay:0.35s"/>
-    <rect class="seg" x="412.34" y="88" width="20.10" height="8" fill="#3178c6" style="animation-delay:0.41s"/>
-    <rect class="seg" x="431.94" y="88" width="18.88" height="8" fill="#89e051" style="animation-delay:0.47s"/>
-    <rect class="seg" x="450.31" y="88" width="9.82" height="8" fill="#f1e05a" style="animation-delay:0.53s"/>
-    <rect class="seg" x="459.63" y="88" width="9.45" height="8" fill="#3572A5" style="animation-delay:0.59s"/>
+    <rect class="seg" x="264.00" y="88" width="148.78" height="8" fill="#00ADD8" style="animation-delay:0.35s"/>
+    <rect class="seg" x="412.28" y="88" width="20.17" height="8" fill="#3178c6" style="animation-delay:0.41s"/>
+    <rect class="seg" x="431.95" y="88" width="18.87" height="8" fill="#89e051" style="animation-delay:0.47s"/>
+    <rect class="seg" x="450.32" y="88" width="9.82" height="8" fill="#f1e05a" style="animation-delay:0.53s"/>
+    <rect class="seg" x="459.64" y="88" width="9.45" height="8" fill="#3572A5" style="animation-delay:0.59s"/>
     <rect class="seg" x="468.59" y="88" width="6.41" height="8" fill="#e34c26" style="animation-delay:0.65s"/>
   </g>
   <g class="row" style="animation-delay:0.55s">
